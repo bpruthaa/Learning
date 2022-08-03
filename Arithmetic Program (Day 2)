@@ -1,0 +1,75 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyNlpWUfgwNoce6TOwdaL8Dm",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/pruthabhatt21/Learning/blob/main/Arithmetic%20Program%20(Day%202)\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#Basic Python\n"
+      ],
+      "metadata": {
+        "id": "NijLXTUMQxYq"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "##Arithmetic Program"
+      ],
+      "metadata": {
+        "id": "UFj6PZXyQ7N5"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "a=5\n",
+        "b=6\n",
+        "c=a+b\n",
+        "print(c)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "UkXHoY20RC3M",
+        "outputId": "cde84deb-a45e-49d9-d8d7-da53404c2c88"
+      },
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "11\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
