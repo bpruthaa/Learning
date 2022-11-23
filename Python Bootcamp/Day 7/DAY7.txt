@@ -1,0 +1,12 @@
+Day 7:
+Python Modules and Libraries
+#Accessing One Python Program from Another:
+1) Create a New Python File using IDLE
+2) Write a Basic Function in it and Save it as 'main.py'
+3) Next upload it to the Google Colab File
+4) To Access the Program, use "import filename"
+#Accessing One Python Program from Another present in another folder:
+1)Create a Folder named "Demo" under the sample data folder.
+2)Upload the same main.py file into it.
+3)To Access that in Python Program use:
+	From (Directory Name) import (File Name)
