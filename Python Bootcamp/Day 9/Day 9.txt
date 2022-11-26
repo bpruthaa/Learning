@@ -1,0 +1,25 @@
+ProgramsLeft:
+1) FaceCamera
+2) IPCamera
+
+Go to GooglePlay:
+IP Web Cam - Download in your Mobile Phone
+Connect with the same internet connection in Laptop and Mobile
+
+Projects:
+1)Lingo
+2)PyGame
+3)Rat_In_Maze
+4)Hangman
+5)Snake
+6)TicTacToe
+
+pygame - library to create games
+
+Rate in Maze Game - 
+1 - A Wall where rat cannot go
+0 - Rat can Go
+
+
+Hangman Game - 
+Guess the word that is given
