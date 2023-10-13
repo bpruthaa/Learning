@@ -1,0 +1,4 @@
+Dt: 23/08/023 GIS Lab Practical 1
+Installation of QGIS
+Installation of Google Earth
+Plot All NFSU Campuses
