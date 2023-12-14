@@ -1,0 +1,26 @@
+ML:
+1) Vectors - Operations(+,-,*,/), How to create Vertical Vectors - Without Numpy
+2) Matricies(+,-,*,/) - Without Numpy
+3) With Numpy - Vectors and Matricies
+4) Datframes with Pandas
+5) Series with Pandas
+6) Different Graphs/Plots with Matplotlib
+7) Data Visualization using different Plots
+8) Linear Regression - Pending
+	1) Salary Dataset
+	2) Car Pricing Dataset
+	3) Housing Dataset
+9) Logistic Regression
+	1) Wine Dataset
+	2) Diabetes Dataset
+10) Classification
+	1) Binary Classification
+	2) Multiclass Classification
+		1)Numbers Classification (0 to 9)
+		2)Handwritten Alphabet Classification
+11)Clustering
+12)Decision Tree
+13)PCA, EDA
+14)Feature Engineering
+15)DBSCAN
+16)HDBSCAN
